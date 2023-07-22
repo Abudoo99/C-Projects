@@ -1,0 +1,37 @@
+There are lot of text editors we can use to type text.
+
+Each text editor comes with different features and different shortcuts. 
+
+In text editors, we can change the background colors, font size, file type, etc.
+
+There are a variety of files supported by text editors
+
+Some of these files a txt, C, C#, C++, etc.
+
+ITC's primary education programme is designed to provide children from weaker sections of society access to learning with special focus on quality and retention.
+
+The read india plus programme run in partnership with pratham helps improve the quality of learning of around 360000 children every year.
+
+In addition to this, ITC has helped set up supplementary learning centers and strengthened infrastructure in government schools
+
+We can write anything in random text
+
+It need not have any meaning. It just have to be sentences.
+
+The secret of getting ahead is getting started
+
+On an average, gorillas sleep as much as fourteen hours per day.
+
+A slot can take two weeks to digest its food.
+
+Stop reading a file after NUM matching lines.  
+
+If the input is standard input from a regular file, and NUM matching lines are output, grep ensures that the standard input is positioned to just after the last matching line before exiting, regardless of the presence of trailing context lines.
+
+This enables a calling process to resume a search.  
+
+When grep stops after NUM matching lines, it outputs trailing  context  lines.  
+
+When the -c or --count option is also used, grep does not output a count greater than NUM.  
+
+When the -v or --invert-match option is also used, grep stops after outputting NUM non-matching lines.

@@ -1,0 +1,19 @@
+There are lot of text editors we can use to type text.
+
+Each text editor comes with different features and different shortcuts. 
+
+In text editors, we can change the background colors, font size, file type, etc.
+
+There are a variety of files supported by text editors
+
+Some of these files a txt, C, C#, C++, etc.
+
+ITC's primary education programme is designed to provide children from weaker sections of society access to learning with special focus on quality and retention.
+
+This enables a calling process to resume a search.  
+
+When grep stops after NUM matching lines, it outputs trailing  context  lines.  
+
+When the -c or --count option is also used, grep does not output a count greater than NUM.  
+
+When the -v or --invert-match option is also used, grep stops after outputting NUM non-matching lines.
